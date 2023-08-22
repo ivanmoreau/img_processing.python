@@ -1,0 +1,5 @@
+.direnv/
+venv
+out/
+*.DS_Store
+.idea
