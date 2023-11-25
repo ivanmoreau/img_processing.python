@@ -19,6 +19,9 @@
               poetry
               python310
               python310Packages.tkinter
+              cmake
+              opencv
+              tesseract
             ];
           };
       };
